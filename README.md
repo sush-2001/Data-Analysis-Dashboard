@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-Developed interactive dashboards to track and analyze insurance business performance. Tools i have used is Excel ,Power BI, Tableau and SQL.
+# Insurance Analytics Dashboard(Interactive Dashboard Creation using MS Excel)
+# Project Objective
+To track and analyze insurance business performance using interactive dashboards in Excel, Power BI, and Tableau, along with SQL queries for key KPIs. The project focuses on branch performance, individual targets, sales opportunities, and revenue trends to drive data-driven decision-making and improve business outcomes.
